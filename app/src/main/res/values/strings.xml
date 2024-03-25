@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">CMT</string>
     <string name="calculate">Calculate</string>
-    <string name="voice_calculator">Voice Calculator</string>
+    <string name="voice_calculator">Voice Over Cost Calculator</string>
     <string name="minutes">Minutes</string>
     <string name="seconds">Seconds</string>
     <string name="price_per_minute">Cost Per Minute</string>
