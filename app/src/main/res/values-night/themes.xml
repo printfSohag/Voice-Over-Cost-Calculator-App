@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.CMT" parent="Theme.MaterialComponents.Light.NoActionBar">
+
+        <item name="colorPrimary">@color/dPrimaryColor</item>
+        <item name="colorPrimaryDark">@color/dPrimaryColorDark</item>
+        <item name="colorAccent">@color/dPrimaryColor</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:statusBarColor">@color/dPrimaryColorDark</item>
+
+
+    </style>
+</resources>
