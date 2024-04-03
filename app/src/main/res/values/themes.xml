@@ -8,6 +8,4 @@
         <item name="android:statusBarColor">@color/lPrimaryColorDark</item>
 
     </style>
-
-    <style name="Theme.CMT" parent="Base.Theme.CMT" />
 </resources>

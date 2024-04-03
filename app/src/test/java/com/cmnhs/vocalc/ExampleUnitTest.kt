@@ -1,4 +1,4 @@
-package com.printfsohag.vocalc
+package com.cmnhs.vocalc
 
 import org.junit.Test
 

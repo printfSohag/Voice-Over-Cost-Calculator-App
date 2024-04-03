@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.cmnhs.cmtools"
+    namespace = "com.cmnhs.vocalc"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.cmnhs.cmtools"
+        applicationId = "com.cmnhs.vocalc"
         minSdk = 21
         targetSdk = 34
         versionCode = 1

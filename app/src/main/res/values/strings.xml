@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CMT</string>
+    <string name="app_name">VocalC</string>
     <string name="calculate">Calculate</string>
     <string name="voice_calculator">Voice Over Cost Calculator</string>
     <string name="minutes">Minutes</string>
